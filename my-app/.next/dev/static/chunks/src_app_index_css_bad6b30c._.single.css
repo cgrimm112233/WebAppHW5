@@ -1,0 +1,22 @@
+/* [project]/src/app/index.css [app-client] (css) */
+html {
+  height: 100%;
+}
+
+body {
+  text-align: center;
+  color: #323232;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
+  font-weight: bold;
+  display: flex;
+}
+
+#root {
+  height: 100%;
+}
+
+/*# sourceMappingURL=src_app_index_css_bad6b30c._.single.css.map*/

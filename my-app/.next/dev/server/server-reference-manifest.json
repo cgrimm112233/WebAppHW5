@@ -1,0 +1,66 @@
+{
+  "node": {
+    "007a1851d57064316658d01a18585111ea12293b47": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/page.tsx [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true,
+          "exportedName": "default",
+          "filename": "src/app/page.tsx"
+        }
+      },
+      "layer": {
+        "app/page": "rsc"
+      },
+      "filename": "src/app/page.tsx",
+      "exportedName": "default"
+    },
+    "40e7d48b55a78dca602a1ba2789e11d64e288c55bb": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/page.tsx [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true,
+          "exportedName": "removeEntry",
+          "filename": "src/app/page.tsx"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "filename": "src/app/page.tsx",
+      "exportedName": "removeEntry"
+    },
+    "60242f87bfa36323257f8da56d9476e8bad20e5a38": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/page.tsx [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true,
+          "exportedName": "toggleComplete",
+          "filename": "src/app/page.tsx"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "filename": "src/app/page.tsx",
+      "exportedName": "toggleComplete"
+    },
+    "60de2d8dacc94a82bb83444a4478aec78dc3b04401": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/page.tsx [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true,
+          "exportedName": "addEntry",
+          "filename": "src/app/page.tsx"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "filename": "src/app/page.tsx",
+      "exportedName": "addEntry"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "M2nlUHED/B9FAouaTFP8E22qv9dRcKeYwlLMmDcJikc="
+}
